@@ -1,2 +1,3 @@
-# AI_Homework1
-Homework 1 for my Artificial Intelligence class
+# Homework 1 for CAP 4630
+
+A simple README file.
